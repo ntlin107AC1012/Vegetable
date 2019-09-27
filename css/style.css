@@ -1,0 +1,264 @@
+html
+{
+    background-color: rgba(237, 242, 197, 0.178);
+    box-sizing: border-box;
+}
+
+body
+{
+    margin: 0;
+    padding: 0;
+    max-height: 940px;
+    max-width: 1260px;
+    display: flex;
+    flex-direction: column;
+    font-family:Arial Black;
+}
+
+.header
+{
+    margin: 0;
+    padding: 0;
+    max-height: 940px;
+    max-width: 940px;
+}
+
+
+.title
+{
+    margin: 0;
+    padding: 0;
+    margin-top:13px;
+    display: flex;
+    flex-direction: row;
+}
+
+.title > p
+{
+    margin: 0;
+    padding: 0;
+    margin-bottom: 0px;
+    font-size: 44px;
+    color: #778a50;
+    margin-right: 415px;
+}
+
+.LOGIN
+{
+    margin: 0;
+    padding: 0;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: #778a50;
+    display: flex;
+    flex-direction: row;
+}
+
+.LOGIN-pic
+{
+    margin: 0;
+    padding: 0;
+    margin-right: 10px;
+    padding-right: 10px;
+    border-right: 1px solid #778a50;
+}
+
+.LOGIN-pic-FB
+{
+    margin: 0;
+    padding: 0;
+    padding-right: 5px;
+}
+
+.LOGIN-btn
+{
+    margin: 0;
+    padding: 0;
+    margin-top: 4px;
+}
+
+.LOGIN-btn-LOGIN
+{
+    margin: 0;
+    padding: 0;
+    padding: 4px 10px;
+    margin-right: 5px;
+    border: 1px solid #778a50;
+    color: #778a50;
+    border-radius: 3px;
+    text-decoration: none;
+
+}
+
+.LOGIN-btn-JOIN
+{
+    margin: 0;
+    padding: 0;
+    padding: 4px 10px;
+    border: 1px solid #778a50;
+    color: #778a50;
+    border-radius: 3px;
+    text-decoration: none;
+}
+
+.nav
+{
+    margin: 0;
+    padding: 0;
+    margin-top: 8px;    
+}
+
+.list
+{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    margin: 0;
+    padding: 0;
+    background-color: #778a50;
+    border-radius: 3px;
+}
+
+.list-item
+{
+    margin: 0;
+    padding: 0;
+    padding: 16px 30px;
+    list-style: none;
+}
+
+.list-item-link
+{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #edf2c5;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+
+
+.container
+{
+    margin: 0;
+    padding: 0;
+    max-width: 1260px;
+    max-height: 940px;
+    height: 940px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #edf2c5;
+    padding-left: 160px;
+    padding-right: 160px;
+}
+
+.pumpkin
+{
+    margin: 0;
+    padding: 0;
+    margin-top: 20px;
+    width: 940px;
+    height: 448px;
+}
+
+
+
+.content
+{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    margin-top: 30px;
+    margin-bottom: 35px;
+    height: 200px;
+}
+
+.vegetablesimg
+{
+    margin: 0;
+    padding: 0;
+    margin-right: 8px;
+}
+
+.vegetables
+{
+    margin: 0;
+    padding: 0;
+    font-size: 16px;
+    border-radius: 3px;
+    background-color: #778a50;
+    color: #edf2c5;
+    padding-left: 30px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-right: 48px;
+    width: 417px;
+}
+
+.contact
+{
+    margin: 0;
+    padding: 0;
+    font-size: 16px;
+    border-radius: 3px;
+    background-color: #778a50;
+    color: #edf2c5;
+    padding-left: 30px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    width: 415px;
+}
+
+.contact-item
+{
+    margin: 0;
+    padding: 0;
+    margin-top: 15px;
+    color: #7D7D7D;
+    background-color: #fbf7da;
+    font-family:  Arial;
+    font-size: 12px;
+}
+
+.contact-item-01
+{ 
+    margin: 0;
+    padding: 0;
+    padding: 16px 15px;
+    line-height: 1.33;
+    border-bottom: 1px solid #7D7D7D;
+}
+
+.contact-item-02
+{
+    margin: 0;
+    padding: 0;
+    margin-top: 16px;
+    padding: 0px 15px;
+    line-height: 1.83;
+}
+
+.contact-item-03
+{
+    margin: 0;
+    padding: 0;
+    padding-bottom: 16px;
+    padding: 0px 15px;
+    line-height: 1.83;
+}
+
+.footer
+{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    font-size: 12px;
+    margin-top: 0px;
+    padding: 0px 459px;
+    height: 60px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #778a50;
+    color: #edf2c5;
+}
